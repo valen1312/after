@@ -10,3 +10,9 @@ h1{
 h2{
     color: rgb(38, 13, 225);
 }
+footer{
+    background-color: aquamarine;
+}
+footer p{
+    color: green;
+}
